@@ -1,0 +1,10 @@
+  119  cd kod-tedu/
+  120  ls
+  121  git status
+  122  git commit -a -m 'dddd'
+  123  git push origin master 
+  124  git pull origin master
+  125  history
+  126  history
+  127  history | tail
+  128  history | tail > how_to_push.txt
